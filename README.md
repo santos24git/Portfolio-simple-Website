@@ -21,7 +21,7 @@ The website consists of two pages:
 
 ## How to View
 
-You can access my portfolio website by visiting [Link]. Feel free to explore and get in touch!
+You can access my portfolio website by visiting [https://santos24git.github.io/Portfolio-simple-Website/]. Feel free to explore and get in touch!
 
 ## Contributing
 
